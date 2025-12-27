@@ -29,7 +29,7 @@ android {
         namespace 'com.solusibejo.screenshot_callback_plus'
     }
 
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
